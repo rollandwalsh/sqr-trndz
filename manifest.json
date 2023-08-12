@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sqr Trndz",
+  "description": "Fixes Sqr Trndz",
+  "version": "1.0",
+  "action": {
+    "default_popup": "sqr_trndz.html",
+    "default_icon": "sqr_trndz.png"
+  }
+}
